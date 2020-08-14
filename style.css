@@ -1,0 +1,31 @@
+#objednavka {
+
+  position:absolute;
+
+  top:40%;
+
+  left:40%;
+
+  width: auto;
+
+  height: auto;	
+
+}
+
+
+
+th {
+
+  text-align: left;	
+
+}
+
+
+
+td {
+
+  text-align: right;
+
+}
+
+#theImage { visibility: hidden; }
